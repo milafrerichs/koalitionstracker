@@ -2,8 +2,14 @@
 title: "1. Präambel"
 section: "I"
 order: 1
-statements: []
 published: true
+statements: 
+  - id: verwaltungsstruktur
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Daher wollen wir alle Anstrengungen aufbringen, um die Verwaltungsstruktur neu
+      aufzustellen, zu digitalisieren und wo notwendig personell auf- und umzubauen.
 ---
 
 Die drei Parteien verstehen das Wahlergebnis als Auftrag und Grundlage, Verantwortung für

@@ -2,7 +2,31 @@
 title: "15. Kultur"
 section: "XV"
 order: 15
-statements: []
+statements: 
+  - id: kulturbdigital
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: Koalition „KulturBDigital“ verstetigen
+  - id: kultur-digital
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      das Förderprogramm Digitale Entwicklung des
+      Kulturbereichs fortsetzen.
+  - id: digis
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Das kulturelle Erbe
+      Berlins sichert die Koalition auch mit der weiteren Förderung des Forschungs- und
+      Kompetenzzentrums Digitalisierung Berlin (digiS).
+  - id: denkmal
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Dazu
+      zählt neben Qualifizierungen und der Revision der Denkmaltopografie auch die Digitalisierung
+      bei der Erfassung und Bereitstellung von Daten sowie in Antragsverfahren.
 published: true
 ---
 Kunst, Kultur und Kreativität prägen das Selbstverständnis und die Lebensqualität unserer

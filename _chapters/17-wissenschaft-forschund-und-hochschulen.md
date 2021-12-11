@@ -2,7 +2,32 @@
 title: "17. Wissenschaft, Forschung und Hochschulen"
 section: "XVII"
 order: 17
-statements: []
+statements: 
+  - id: digital-health
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Wir wollen die Zusammenarbeit mit internationalen Partnern, unter anderem im Rahmen
+      der Berlin-Queensland-Alliance zum Thema Digital Health oder der Oxford-Berlin Kooperation
+      OXBER ausbauen, um die Attraktivität des Standortes für internationale Wissenschaftler*innen
+      in allen Karrierestufen zu stärken.
+  - id: lehre
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Lehre
+      und Forschung zur Digitalisierung, der Anpassung an den Klimawandel und der
+      Transformation der Energieversorgung sind wichtige Zukunftsthemen in diesem Bereich.
+  - id: uni-digi
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Wir stärken den Bereich der IT-Sicherheit durch die Besetzung der hauptamtlichen IT-
+      Sicherheitsbeauftragten und die Einrichtung eines unabhängigen Forums dieser IT-
+      Sicherheitsbeauftragten mit gemeinsamer Berichtspflicht an den Senat. Durch einen sozial
+      ausgestatteten Digitalpakt, der den Bund mit einschließt, bauen wir Zugangs- und
+      Nutzungshürden für Studierende ab. Zudem fördern wir den Zugang aller Mitglieder der
+      Hochschulen zu digitalen Angeboten aller Bibliotheken.
 published: true
 ---
 

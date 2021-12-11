@@ -2,7 +2,110 @@
 title: "19.4 Digitalisierung"
 section: "XIX"
 order: 21
-statements: []
+statements: 
+  - id: organisationseinheit
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Die Verantwortlichkeiten für die Digital- und
+      die Smart City Strategie sowie die Digitalisierung der Verwaltung/Informations- und
+      Kommunikationstechnologie-Steuerung (IKT) werden in einer Organisationseinheit
+      zusammengeführt.
+  - id: cdo
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Die Koalition richtet einen „Chief Digital Officer“ ein, dem das für die
+      Aufgabenerfüllung benötigte Personal und Budget bereitgestellt wird.
+  - id: stabstellen
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: Jede Senatsverwaltung unterhält eine Stabsstelle Digitalisierung.
+  - id: bezirkseinheit
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Die Steuerung und
+      Koordinierung der bezirklichen Digitalisierungsaktivitäten werden bei den
+      Bezirksbürgermeister*innen in einer geeigneter Einheit gebündelt.
+  - id: vak
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Die interne
+      Beratungseinheit in der Verwaltungsakademie (VAk) Berlin wird um eine Einheit mit Expertise
+      in Service Design, Transformation und Kollaboration ergänzt.
+  - id: egovBln
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Mit einer Novelle des E-Government-Gesetzes Berlin (EGovG Bln) im Jahr 2022 wird die
+      Koalition den IKT-Lenkungsrat durch handlungsfähige, ebenenübergreifende
+      Gremienstrukturen ersetzen und in Zuge dessen die Rolle des/der Landesbeauftragten für IT-
+      Sicherheit als unabhängige Stelle prüfen.
+  - id: technologiestiftung
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Die Technologiestiftung Berlin und das CityLAB Berlin wird die Koalition als Schaltstelle für die
+      Umsetzung der wesentlichen Elemente der Digitalpolitik nutzen. Die stiftungsseitigen
+      Voraussetzungen dafür will sie bis Ende 2022 schaffen.
+  - id: citylab
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Im CityLAB baut die Koalition
+      Infrastruktur und Personal für technisches Prototyping auf.
+  - id: kiezlab
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Unter Einbindung der lokalen
+      Wirtschaft fördert die Koalition die Einrichtung zusätzlicher, gegebenenfalls mobiler Labore in
+      den Kiezen.
+  - id: reallabore
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: Lokale Innovationsprojekte und Reallabore werden unterstützt.
+  - id: govtech-campus
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Berlin wird Mitglied im bundesweiten Netzwerk GovTech Campus Deutschland e.V., welches
+      die Verwaltungsdigitalisierung vorantreibt.
+  - id: itdz
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Die Koalition wird das IT-Dienstleistungszentrum (ITDZ) Berlin strukturell umbauen, seine
+      Leistungsfähigkeit erhöhen und den kulturellen Wandel zu einem kundenorientierten
+      Dienstleister konsequent voranbringen. Das ITDZ-Gesetz wird mit diesem Ziel novelliert.
+  - id: berlinpc
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Auch
+      bei noch dezentralem Betrieb wird der „BerlinPC“ als mobiler Standardarbeitsplatz (one-
+      device-Strategie) ausgerollt.
+  - id: eakte
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Die Koalition wird die elektronische Akte schnellstmöglich, spätestens bis Ende 2024
+      flächendeckend umsetzen.
+  - id: digitale-kollaboration
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Um die Zusammenarbeit zwischen den Ressorts und mit der
+      Stadtgesellschaft zu unterstützen, wird bis 2023 ein Basisdienst „digitale
+      Kollaborationswerkzeuge“ mit Messenger und Dateienmanagement eingeführt.
+  - id: nutzerverwaltung
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Beim ITDZ
+      wird eine einheitliche Nutzerverwaltung bis Frühjahr 2023 beauftragt.
 published: true
 ---
 Digitalisierung ist Schwerpunkt dieser Legislatur. [Die Verantwortlichkeiten für die Digital- und

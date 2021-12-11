@@ -2,7 +2,26 @@
 title: "11. Offene Gesellschaft"
 section: "XI"
 order: 11
-statements: []
+statements: 
+  - id: digitale-nachbarschaften
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Berlin unterstützt gemeinwohlorientierte Plattformen wie zum Beispiel Soziale Nachbarschaft
+      und Technik (SoNaTe) zur digitalen Vernetzung und Kommunikation in Nachbarschaften.
+  - id: frauen-berlin-geschichte
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Zur Ehrung und Würdigung von Frauen wird ein digitales
+      Portal „Frauen in der Berliner Geschichte“ inkl. Datenbank erstellt.
+  - id: opferhilfe
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Zum Schutz vor Diskriminierung im Netz wird die Koalition digitale Prävention und
+      Opferhilfe durch modellhafte Projekte mit innovativen medienpädagogischen Ansätzen
+      weiterentwickeln und stärken.
 published: true
 ---
 Die Koalition wird die Berliner Engagementstrategie umsetzen. Dazu gehört die

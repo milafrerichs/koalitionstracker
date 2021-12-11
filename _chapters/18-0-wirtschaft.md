@@ -2,7 +2,55 @@
 title: "18. Wirtschaft"
 section: "VI"
 order: 18
-statements: []
+statements: 
+  - id: prozesse-senat-bezirk
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Senats-
+      und Bezirksverwaltungen sollen besser zusammenarbeiten, Ermessensspielräume nutzen
+      und Prozesse möglichst standardisieren und digitalisieren.
+  - id: sigital-agentur
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Die
+      Digitalagentur wird dazu unter anderem im Themenfeld IT-Sicherheit weiter ausgebaut
+  - id: digitalpraemie
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: Digitalprämie fortgeführt
+  - id: glasfaser
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Die
+      Gigabitstrategie des Landes Berlin wird fortgeführt, dem Ausbau von Glasfaseranschlüssen
+      und des Gigabitnetzes durch standardisierte Genehmigungsverfahren hohe Priorität
+      eingeräumt
+  - id: smart-city-strategie
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Berlin entwickelt
+      eine Digital- und Smart City-Strategie nach den Grundsätzen der „Declaration of Cities
+      Coalition for Digital Rights”.
+  - id: einzelhandel
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Die Koalition will die Attraktivität von Einkaufsstraßen steigern durch: Hybride Modelle von
+      stationärem und online-gestütztem Handel, städtebauliche Maßnahmen (zum Beispiel Pickup-
+      Stationen), Weiterbildung der Beschäftigten und der kleinen und mittleren Unternehmen selbst
+      (Digitalisierungslotsen), Förderung von lokalen Marktplätzen (Online-Plattformen) und
+      Maßnahmen zum Erhalt oder Weiterentwicklung ausgewählter klassischer Kaufhausstandorte
+      und Malls.
+  - id: digital-innovation-office
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Die Koalition verbessert die Gründungsberatung nach dem Vorbild des »Digital
+      Innovation Office« in Barcelona.
 published: true
 ---
 

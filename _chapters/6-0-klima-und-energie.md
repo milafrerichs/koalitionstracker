@@ -2,7 +2,21 @@
 title: "6. Klima und Energie"
 section: "VI"
 order: 6
-statements: []
+statements: 
+  - id: mieterstrom
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Die Koalition setzt sich gegenüber dem Bund dafür ein, dass die
+      Rahmenbedingungen für Mieterstrom, aber auch von dezentralen Versorgungskonzepten in
+      Quartieren, Sektorenkopplung und Digitalisierung erleichtert werden.
+  - id: strom-digital
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Für die Koalition kommt dem Ausbau und der Digitalisierung der rekommunalisierten
+      Stromnetze für die Klimaneutralität Berlins und auch für den Ausbau der Elektromobilität eine
+      besondere Bedeutung zu.
 published: false
 ---
 Eine transformative Politik verbindet ambitionierten Klimaschutz mit Sozialverträglichkeit,

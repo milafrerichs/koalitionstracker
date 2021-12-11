@@ -2,7 +2,14 @@
 title: "12. Öffentliche Sicherheit"
 section: "XII"
 order: 12
-statements: []
+statements: 
+  - id: verkehrsdelikte
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Wir prüfen eine
+      datenschutzgerechte und zweckbezogene digitale Lösung zur Ahndung von Verkehrsdelikten
+      im ruhenden Verkehr.
 published: true
 ---
 

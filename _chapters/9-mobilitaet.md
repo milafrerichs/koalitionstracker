@@ -2,7 +2,30 @@
 title: "9. Mobilität"
 section: "IX"
 order: 9
-statements: []
+statements: 
+  - id: parkraum
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Die Koalition setzt sich für die Einführung digitaler Parkraummanagement-Systeme – zunächst
+      in Modellprojekten – und die dafür notwendigen Gesetzesänderungen im Bund ein.
+  - id: mobilititaet-digital
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Die Koalition schafft die Voraussetzungen, dass alle Anbieter*innen von
+      Mobilitätsdienstleistungen an eine digitale, öffentliche Plattform angebunden werden und
+      anonymisiert planungs-, buchungs- und auslastungsrelevante Daten einspeisen müssen.
+  - id: mikiro-depo-digital
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Die Anzahl dezentraler, anbieterneutraler Mikro-Depots wird deutlich erhöht. Für alle
+      Verkehre, die nicht verlagert werden können, werden verstärkt Kurzpark-, Liefer- und
+      Wirtschaftsparkzonen eingerichtet, um Handwerker*innen, Liefer- und Pflegediensten eine
+      Möglichkeit zum Ausüben ihrer Dienstleistungen zu bieten. Die Freihaltung der Ladezonen ist
+      konsequent durchzusetzen. Ihre Verfügbarkeit soll sukzessive digital und in Echtzeit abrufbar
+      gemacht werden.
 published: true
 ---
 
