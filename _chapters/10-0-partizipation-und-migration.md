@@ -1,5 +1,5 @@
 ---
-title: "10.0 Partizipation und Migration"
+title: "10. Partizipation und Migration"
 section: "X"
 order: 10
 statements: 

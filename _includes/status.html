@@ -1,0 +1,9 @@
+{% if statement.status == "not_implemented" %}
+  ⚪️
+{% else if statement.status == "implemented" %}
+  ✅
+{% else if statement.status == "partially_implemented" %}
+  ☑️
+{% else if statement.status == "broken" %}
+  ❌
+{% endif %}
