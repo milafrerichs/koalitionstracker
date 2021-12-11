@@ -2,7 +2,19 @@
 title: "4. Soziales und Inklusion"
 section: "IV"
 order: 4
-statements: []
+statements: 
+  - id: e-abrechnung
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Die Koalition wird die Digitalisierung durch die Fortführung und Absicherung von Projekten wie
+      dem Sozialhilfeportal und der e-Abrechnung vorantreiben.
+  - id: inklusive-digital
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Die Digitalisierung der sozialen Infrastruktur muss inklusiv,
+      mehrsprachig und kultursensibel erfolgen.
 published: true
 ---
 

@@ -2,7 +2,20 @@
 title: "10.0 Partizipation und Migration"
 section: "X"
 order: 10
-statements: []
+statements: 
+  - id: lea
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Die Koalition wird das LEA weiter personell verstärken und die Digitalisierung
+      vorantreiben.
+  - id: online-termine
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Onlineterminvereinbarungen und digitale Antragsstellungen für alle werden
+      ausgebaut, Terminvorlaufzeiten deutlich verkürzt, und die Beratung durch verstärkte
+      Mehrsprachigkeit und Sprachmittlung verbessert.
 published: true
 ---
 Vielfalt ist Stärke und Markenzeichen Berlins. Berlin ist Einwanderungsstadt und

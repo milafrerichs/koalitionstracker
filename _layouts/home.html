@@ -18,6 +18,10 @@ layout: default
         </a>
       </h3>
     </header>
+    {% if chapter.statements.size > 0 %}
     {% include statements.html statements=chapter.statements %}
+    {% else %}
+    Keine Vorhaben zu diesem Kapitel
+    {% endif %}
   </section>
 {% endfor %}

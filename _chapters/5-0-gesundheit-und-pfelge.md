@@ -2,7 +2,19 @@
 title: "5. Gesundheit und Pflege"
 section: "V"
 order: 5
-statements: []
+statements: 
+  - id: gesundheit-digital
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Mit dem begonnenen IT-Zukunftsprojekt werden die
+      Gesundheitsämter und andere Bereiche des ÖGD konsequent digitalisiert und vernetzt.
+  - id: sport-bewegt-digital
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Grundlage der
+      Maßnahmen ist eine digitale und integrierte Berichterstattung.
 published: true
 ---
 

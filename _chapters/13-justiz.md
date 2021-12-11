@@ -2,7 +2,26 @@
 title: "13. Justiz"
 section: "XIII"
 order: 13
-statements: []
+statements: 
+  - id: ejustice
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |2-
+       Digitalisierung der Justiz werden wir unter Einhaltung der hohen Datenschutzstandards
+      vorantreiben. [Die Koalition wird die organisatorischen und haushalterischen Voraussetzungen
+      dafür schaffen, dass der elektronische Rechtsverkehr und die elektronische Akte (E-Justice)
+      auch in Eingangsregistraturen und den Geschäftsstellen planmäßig eingeführt werden
+      können.
+  - id: justiz-zahlung
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: Die Zahlungsverfahren werden weiter digitalisiert.
+  - id: legal-tech
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Wir setzen uns dafür ein, dass ein
+      Innovationszentrum Berlin für „Legal Tech Anwendungen“ gegründet wird.
 published: true
 ---
 

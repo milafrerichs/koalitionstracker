@@ -6,10 +6,12 @@ layout: default
 
 
 <section>
+  {% if page.statements.size > 0 %}
   <h2>Zusammenfassung für „{{ page.title }}“</h2>
   <div>
     {% include statements.html statements=page.statements %} 
   </div>
+  {% endif %}
 </section>
 
 <article>

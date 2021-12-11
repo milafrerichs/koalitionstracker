@@ -2,7 +2,45 @@
 title: "16. Bildung, Jugend und Familie"
 section: "XVI"
 order: 16
-statements: []
+statements: 
+  - id: kinder-jugendhilfe
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Die Koalition erarbeitet eine Digitalisierungsstrategie, die alle Bereiche der Kinder- und
+      Jugendhilfe einschließt.
+  - id: schul-digit
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Die Schulbau-Steuerungsgremien
+      und bauliche Digitalisierung werden zusammengeführt.
+  - id: schul-anwedungen
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Die Positivliste von digitalen Anwendungen sowie die digitale Lehr- und
+      Lernmittelverordnung werden erarbeitet und die Schuldatenverordnung aktualisiert.
+  - id: lusd
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Die
+      Weiterentwicklung der Berliner Lehrkräfte-Unterrichts-Schul-Datenbank (LUSD) und der
+      Anschluss der Schulen werden vorangetrieben.
+  - id: beirat
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Der Beirat Digitalisierung und der Runde Tisch Medienbildung werden zusammengefasst
+      und beteiligungsorientiert weiterentwickelt.
+  - id: vhs
+    last_update: '2021-12-11'
+    status: not_implemented
+    summary: |-
+      Die Koalition unterstützt die Digitalisierungsstrategie der Berliner
+      Volkshochschulen ("Erweiterte Lernwelten"), um den Wandel zu einer nachhaltigen und
+      digital erweiterten Bildungskultur zu ermöglichen.
 published: true
 ---
 

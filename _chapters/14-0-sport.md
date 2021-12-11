@@ -2,11 +2,13 @@
 title: "14. Sport"
 section: "XIV"
 order: 14
-statements:
+statements: 
   - id: sportstaetten
     last_update: '2021-12-11'
     status: not_implemented
-    summary: 'Transparente und digitale Vergabe und Auflistung von Sportstätten setzen wir zügig um.'
+    summary: |-
+      Transparente und digitale Vergabe und Auflistung
+      von Sportstätten setzen wir zügig um.
 published: true
 ---
 
