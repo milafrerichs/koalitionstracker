@@ -8,7 +8,8 @@ layout: default
   {{ content }}
 </article>
 
-{% for chapter in site.chapters %}
+{% assign chapters = site.chapters | sort: 'order' %}
+{% for chapter in chapters %}
   <section>
     <header>
       <h3>
