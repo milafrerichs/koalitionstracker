@@ -1,5 +1,5 @@
 ---
-title: "19. Verwaltung"
+title: "19.0 Verwaltung"
 section: "XIX"
 order: 19
 statements: []
