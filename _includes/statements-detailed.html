@@ -2,7 +2,10 @@
   <thead>
     <th>Vorhaben</th>
     <th>Status</th>
-    <th>zuletzt überprüft</th>
+    <th>Datum</th>
+    <th>Versprochen bis</th>
+    <th>Verbleibende Zeit</th>
+    <th>Nachweise</th>
   </thead>
   <tbody>
 {% for statement in include.statements %}
@@ -20,6 +23,24 @@
     {% include status.html statement=statement %} 
   </td>
   <td>{% if statement.last_update %}{{ statement.last_update }}{% else %}-{% endif %}</td>
+  <td>{{statement.deadline}}
+  </td>
+  <td>
+    {% if statement.deadline %}
+    {{ statement.deadline | timeago }}
+    {% endif %}
+  </td>
+  <td>
+    {% if statement.reports %}
+      <ul>
+      {% for report in statement.reports %}
+        <li>
+          <a href="{{ report.url }}">{{ report.title }}</a>
+        </li>
+      {% endfor %}
+      </ul>
+    {% endif %}
+  </td>
 </tr>
 {% endfor %}
 </tbody>

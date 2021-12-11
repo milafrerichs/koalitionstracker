@@ -1,5 +1,5 @@
 ---
-title: "19.4 Digitalisierung"
+title: "19.3 Digitalisierung"
 section: "XIX"
 order: 21
 statements: 
