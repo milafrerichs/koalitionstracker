@@ -2,7 +2,7 @@
 title: "2. Stadtentwicklung, Bauen, Mieten"
 section: "II"
 order: 2
-statements: 
+statements:
   - id: digitaler-bplan
     last_update: "2021-12-10"
     status: not_implemented
