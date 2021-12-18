@@ -6,4 +6,4 @@
   
   <p>{{ chapter.content | markdownify }}</p>
   
-  {% include statements.html statements=chapter.statements %} 
+  {% include statements.html statements=chapter.statements chapter=chapter %} 

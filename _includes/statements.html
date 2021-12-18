@@ -10,7 +10,7 @@
   <td class="allow-wrap">
     {{ statement.summary }}
     <small>
-      <a class="back-ref" href="#ref-{{ statement.id }}" title="Stelle im Text">
+      <a class="back-ref" href="{{site.baseurl}}{{chapter.url}}#ref-{{ statement.id }}" title="Stelle im Text">
         📃
         <span class="sr-only">Stelle im Text</span>
       </a>
@@ -19,7 +19,7 @@
   <td>
     {% include status.html statement=statement %} 
   </td>
-  <td>{% if statement.last_update %}{{ statement.last_update }}{% else %}-{% endif %}</td>
+  <td>{% if statement.last_update %}{{ statement.last_update | date: "%d.%m.%Y" }}{% else %}-{% endif %}</td>
 </tr>
 {% endfor %}
 </tbody>
