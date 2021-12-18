@@ -37,6 +37,7 @@ statements:
       in Service Design, Transformation und Kollaboration ergänzt.
   - id: egovBln
     last_update: '2021-12-11'
+    deadline: '2022-12-31'
     status: not_implemented
     summary: |-
       Mit einer Novelle des E-Government-Gesetzes Berlin (EGovG Bln) im Jahr 2022 wird die
@@ -45,6 +46,7 @@ statements:
       Sicherheit als unabhängige Stelle prüfen.
   - id: technologiestiftung
     last_update: '2021-12-11'
+    deadline: '2022-12-31'
     status: not_implemented
     summary: |-
       Die Technologiestiftung Berlin und das CityLAB Berlin wird die Koalition als Schaltstelle für die
@@ -90,11 +92,13 @@ statements:
   - id: eakte
     last_update: '2021-12-11'
     status: not_implemented
+    deadline: '2024-12-31'
     summary: |-
       Die Koalition wird die elektronische Akte schnellstmöglich, spätestens bis Ende 2024
       flächendeckend umsetzen.
   - id: digitale-kollaboration
     last_update: '2021-12-11'
+    deadline: '2022-12-31'
     status: not_implemented
     summary: |-
       Um die Zusammenarbeit zwischen den Ressorts und mit der
@@ -102,6 +106,7 @@ statements:
       Kollaborationswerkzeuge“ mit Messenger und Dateienmanagement eingeführt.
   - id: nutzerverwaltung
     last_update: '2021-12-11'
+    deadline: '2023-04-30'
     status: not_implemented
     summary: |-
       Beim ITDZ
