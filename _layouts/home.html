@@ -9,8 +9,14 @@ layout: default
 </article>
 
 {% assign chapters = site.chapters | sort: 'order' %}
+<ul>
+{% for chapter in chapters %}
+  <li><a href="#{{chapter.section}}">{{chapter.title}}</a> ({{chapter.statements | size }} Vorhaben)</a></li>
+{% endfor %}
+</ul>
 {% for chapter in chapters %}
   <section>
+    <a name="{{chapter.section}}"></a>
     <header>
       <h3>
         <a href="{{ site.baseurl }}{{ chapter.url }}">
