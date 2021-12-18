@@ -2,9 +2,9 @@
   <thead>
     <th>Vorhaben</th>
     <th>Status</th>
-    <th>Datum</th>
-    <th>Versprochen bis</th>
-    <th>Verbleibende Zeit</th>
+    <th>zuletzt<br/> überprüft</th>
+    <th>Versprochen<br/> bis</th>
+    <th>Verbleibende<br/> Zeit</th>
     <th>Nachweise</th>
   </thead>
   <tbody>
@@ -22,8 +22,8 @@
   <td>
     {% include status.html statement=statement %} 
   </td>
-  <td>{% if statement.last_update %}{{ statement.last_update }}{% else %}-{% endif %}</td>
-  <td>{{statement.deadline}}
+  <td>{% if statement.last_update %}{{ statement.last_update | date: "%d.%m.%Y"}}{% else %}-{% endif %}</td>
+  <td>{{statement.deadline | date: "%m.%Y" }}
   </td>
   <td>
     {% if statement.deadline %}

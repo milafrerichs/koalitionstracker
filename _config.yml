@@ -32,11 +32,12 @@ markdown: kramdown
 plugins:
   - jekyll-timeago
 
-
 jekyll_timeago:
-  depth: 3
+  depth: 1
   threshold: 0.05
   default_locale: 'de'
+  available_locales:
+    - 'de'
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
